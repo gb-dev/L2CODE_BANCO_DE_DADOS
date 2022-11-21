@@ -1,0 +1,23 @@
+update nome_tabela
+set nome_coluna = 'alteração'
+where id = 
+
+select * from nome_tabela
+
+delete from nome_tabela
+where id = 3
+
+create database nome do dba
+
+create table nome_tabela (
+
+começar com id int not null auto_increment,
+
+nome do campo   tipo do dado(int, varchar(quantidade de caract), float) not null,
+
+primary key(id)
+
+)
+
+alter table nome_tabela
+modify column nome do campo qual parametro vc quer mudar not null

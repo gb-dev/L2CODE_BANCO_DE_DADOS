@@ -1,0 +1,8 @@
+# Projeto em desenvolvimento do desafio da L2Code, de criação de um banco de dados para cadastro de clientes inadimplentes e com pagamento completo.
+
+O Banco Central de Financiamentos perdeu muitos cadastros após uma falha de
+servidor que aconteceu em setembro, no aniversário da empresa. Alguns dados do
+ano passado foram encontrados e você foi escolhido para:
+- Selecionar o nome, dia do mês e valor da parcela para clientes que estão
+inadimplentes.
+- Selecionar o nome e valor total pago de clientes com pagamento completo.
